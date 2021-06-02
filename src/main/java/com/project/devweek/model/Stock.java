@@ -1,7 +1,5 @@
 package com.project.devweek.model;
 
-import org.apache.tomcat.jni.Local;
-
 import javax.persistence.*;
 import java.time.LocalDate;
 
@@ -10,7 +8,7 @@ import java.time.LocalDate;
 public class Stock {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column
+    @Column(name = "id")
     private Long id;
 
     @Column(name = "name")
