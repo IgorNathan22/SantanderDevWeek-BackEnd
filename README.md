@@ -6,4 +6,4 @@ Aquecimento para o bootcamp Santander, desenvolvendo uma aplicação cliente-ser
 
 ## Desenvolvimento do projeto
 Foi utilizado a linguagem Java junto com o framework Spring, além do banco de dados relacional PostgreSql para a construção do backend.
-Para a construção do frontend foi utilizado o framework Angular, em conjunto com o node.js.
+Para a construção do frontend foi utilizado o framework Angular, TypeScript, além do node.js.
